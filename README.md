@@ -14,8 +14,8 @@
 4. Set-up Device
 - name, Ip TV, Port: 22
 
-- SSH key
-- Install ..\KodiWebOS\org.xbmc.kodi_21_25.07.2023.ipk-20230813T044006Z-001\org.xbmc.kodi_21_25.07.2023.ipk
+- SSH key (On TV)
+- Install ..\KodiWebOS\Kodi_ipk\FILE_NAME.ipk
 
 #!This is custom Kodi file, you can install different one
 s: [link to webOs]{https://webostv.developer.lge.com/develop/getting-started/developer-mode-app#installing-developer-mode-app}
